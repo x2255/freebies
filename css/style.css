@@ -12,13 +12,11 @@
   display: flex;
 }
 
-
 .fon{
   width: 275px;
   height: 455px;
   margin-top: 77px;
   background-color: #ffd500;
-  border:4px solid #000;
   border-radius: 10px;
 
 }
@@ -62,37 +60,48 @@
 }
 */
 
-.name{
-  width: 190px;
-  height: 20px;
-  padding-left:20px;
-  padding-right: 20px;
-  border-radius: 10px;
-
-}
-
-
 .second{
-  width:560px;
-  height:445px;
-  margin-top: 50px;
-  padding-left: 50px;
-
+  width: 405px;
+  height: 460px;
+  margin-top:77px;
+  background-color:rgb(231, 231, 231);
+  border-radius: 10px;
 }
-
 
 .form{
-  margin-top: 55px;
-  border-radius:15px;
-  background-color: #fff
+  display: block;
+  width: 260px;
+  margin-top: 53px;
+  margin-left: 65px;
+
 }
 
-
+.div{
+  display: block;
+  display: flex;
+}
 .name{
-  width: 160px;
-  padding: 11px 32px;
-  margin: 20px;
+  width: 190px;
+  height: 25px;
+  margin-top: 15px;
+  margin-left: 30px;
+  padding: 5px;
+  border-radius: 10px;
+}
 
+.radio{
+  margin-top: 25px;
+  border-radius: 20px;
+
+}
+
+.hhh{
+  margin-right: 10px;
+}
+
+.p{
+  margin-top: 23px;
+  padding-right: 10px;
 }
 
 
